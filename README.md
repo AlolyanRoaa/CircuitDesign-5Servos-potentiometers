@@ -62,7 +62,7 @@ then for each servo : brow wire to ground, red to power, and orange for signal t
 now for potentiometers : black wire to ground, red to power, and green for signal to the arduino analog input.
 
 
-| Part  | Digital pwm | analog input |
+| Part  | Digital pwm | Analog Input |
 |-------|-------------|--------------|
 | Base  |     D11     |     A1     |
 | Shoulder  |   D5   |     A2     |
